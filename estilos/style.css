@@ -4,16 +4,22 @@
     padding: 0;
     font-family: sans-serif;
 }
+
 :root
 {
     --amarillo-led: #ffcf23;
     --violeta-caja: #6a4e74;
     --arcilla: #cfb59a;
     --verde-pote: #89ac9e;
+    --gris: #A3A3A3;
 }
+
 body
 {
-    background-color: #A3A3A3;
+    background-color: var(--gris);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 body div h2
@@ -28,6 +34,11 @@ a:hover
     background-color: var(--amarillo-led);
 }
 
+a:active
+{
+    background-color: orange;
+}
+
 header
 {
     display: flex;
@@ -35,8 +46,8 @@ header
     align-items: center;
     width: 90vw;
     height: max-content;
-    margin: 5vw;
-    padding: 5vw;
+    margin-bottom: 10px;
+    padding: 10px;
     background-color: var(--verde-pote);
 }
 
