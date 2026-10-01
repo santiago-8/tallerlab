@@ -52,6 +52,14 @@ header
     background-color: var(--verde-pote);
 }
 
+header div
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 header div h1
 {
     display: none;
@@ -63,20 +71,24 @@ header div img
     padding: 5px;
 }
 
-header nav ul
+header div nav ul
 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
     list-style: none;
     font-size: 25px;
+    padding: 5px;
+    flex-wrap: wrap;
 }
 
 nav ul li a
 {  
     color: black;
     text-decoration: none;
+    margin: 10px;
+    padding: 2px
 }
 
 a.aca
@@ -97,20 +109,26 @@ nav.cajalinks
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 button
 {
-    background-color: whitesmoke;
+    background-color: var(--amarillo-led);
     margin: 5vw;
-    font-size: large;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
 }
+
 button a
 {
     text-decoration: none;
     color: black;
     text-transform: none;
+    font-size: 20px;
 }
+
 main div
 {
     display: flex;

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200.00001"
+   sodipodi:docname="4_voltaje-corriente-resistencia.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0.028 H 595.275 V 841.889 H 0 Z"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Page 2">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.998877;fill-rule:evenodd;stroke:#000000;stroke-width:0.234331"
+       id="rect626"
+       width="274.83044"
+       height="250.36218"
+       x="-28.834072"
+       y="-25.018528" />
+  </g>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1122.5197)">
+    <g
+       id="g12"
+       transform="translate(-10.092745,2.5007923)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,803.289)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text24"><tspan
+               x="0 6.8969998 12.397 15.488 19.173 24.673 28.27"
+               y="0"
+               sodipodi:role="line"
+               id="tspan22">Voltaje</tspan></text>
+        </g>
+        <g
+           id="g26">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,777.989)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text30"><tspan
+               x="0 6.6989999 12.199 15.29 19.492001 22.583 28.171 31.658001 37.158001 42.658001 48.245998 51.733002 55.417999 60.917999 65.713997 69.399002 74.282997 79.871002 83.358002 88.858002 94.445999 97.932999 102.729 105.82 109.505 114.389 119.185 124.069 127.16 132.66 138.853 142.34 147.224 152.625 155.716 159.401 164.989 168.476 173.976 179.476 185.064 188.55099 193.347 198.231 201.729 207.229 212.817 216.304 221.804 227.304 231.506 234.597 237.60001 240.69099 246.19099 251.77901 255.26601 261.45901 264.94601 270.44601 275.94601 281.534 285.021 290.521 295.405 300.905 305.70099 308.79199 311.883 317.383 322.17899 325.66599 329.15302 335.258 340.84601 344.33301 349.83301 354.71701 360.21701 365.80499 369.29199 374.17599 379.577 382.668 385.759 390.64301 395.439 399.828 403.315 408.19901 411.29001 416.086 419.771 422.862 428.45001 431.93701 436.733 441.617 447.117 450.12 453.211 458.711 463.595 469.78799 473.27499 478.77499 484.36301 487.85001 492.73401 498.23401 503.03 506.52802 512.02802 515.11902 519.91498 523.40198 526.88898 531.77301"
+               y="0"
+               sodipodi:role="line"
+               id="tspan28">Existe una fuerza de atracción entre una carga positiva y una negativa. Se debe aplicar cierta cantidad de energía, en</tspan></text>
+        </g>
+        <g
+           id="g32">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,765.289)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text36"><tspan
+               x="0 3.6849999 9.1850004 12.782 21.372999 26.466 29.358999 34.859001 39.853001 42.845001 45.848 49.533001 54.417 59.917 64.712997 67.804001 73.304001 76.196999 79.189003 84.689003 89.485001 93.169998 98.263 101.156 106.656 111.54 117.04 121.924 126.72 130.614 133.507 139.007 142.09801 146.98199 152.48199 157.476 160.468 164.065 169.565 174.44901 178.134 182.92999 188.02299 190.916 196.603 199.496 203.786 208.67 214.17 219.054 222.651 227.535 231.429 234.32201 237.41299 242.209 246.69701 249.59 254.474 259.358 262.85599 268.35599 273.15201 277.64001 280.53299 285.62601 288.51901 294.01901 298.90302 301.90601 306.79001 310.47501 318.978 322.069 327.569 332.453 337.953 342.94699 345.939 351.439 354.44199 358.73199 361.823 366.707 372.207 377.00299 380.09399 384.978 387.871 390.86301 398.16699 403.56799 412.159 417.84601 420.73901 426.23901 431.73901 436.832 439.72501 444.60901 450.10901 458.70001 464.20001 468.996 472.681 477.565 482.36099 485.452 490.952 496.452 499.345 502.33701 505.34 513.93103 518.815 524.315 527.40601 532.80701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan34">forma de trabajo, para vencer dicha fuerza y separar las cargas a determinada distancia. Como una comparación, imagina</tspan></text>
+        </g>
+        <g
+           id="g38">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,752.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text42"><tspan
+               x="0 5.5 11 16.093 18.986 24.386999 29.271 34.958 37.851002 43.351002 48.938999 51.832001 54.923 59.806999 65.306999 70.806999 76.306999 81.301003 84.194 89.694 94.787003 97.68 102.476 107.976 113.476 118.569 121.462 126.962 132.46201 137.45599 140.349 145.233 149.435 152.526 157.619 160.51199 164.714 170.214 175.714 181.214 184.899 187.99001 192.87399 198.37399 203.96201 206.855 211.849 214.742 220.242 225.12601 228.72301 231.814 237.314 241.802 244.69501 250.09599 253.187 258.07101 262.55899 265.452 269.65399 275.15399 280.65399 284.33899 289.33301 292.22601 297.10999 300.29999 303.19299 308.69299 311.784 317.284 322.07999 325.36899 328.26199 333.76199 338.55801 341.84698 344.73999 349.03 354.431 359.315 362.40601 367.80701 370.79901 373.69199 379.797 384.79099 387.68399 393.18399 398.06799 403.56799 408.66101 411.55399 416.35001 419.44101 424.32501 427.922 432.806 437.69 441.474 444.367 449.867 455.367 460.45999 463.353 468.14899 473.03299 478.53299 481.62399 484.715 490.116 495 500.68701 503.57999 509.07999 513.96399 519.46399 524.45801 527.35101 532.85101"
+               y="0"
+               sodipodi:role="line"
+               id="tspan40">que hay un tanque de agua que está soportado a varios pies sobre el nivel del suelo. Se debe ejercer una cantidad dada de</tspan></text>
+        </g>
+        <g
+           id="g44">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,739.989)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text48"><tspan
+               x="0 4.8839998 10.384 15.268 18.766001 24.167 27.257999 32.141998 35.431 38.720001 43.515999 49.5 52.789001 56.473999 61.973999 65.570999 74.162003 79.552002 82.841003 88.341003 93.731003 97.019997 100.023 103.708 108.592 114.092 118.888 121.979 127.479 130.76801 134.05701 139.55701 144.353 148.03799 153.42799 156.717 161.007 166.507 172.007 175.00999 179.201 182.49001 187.37399 192.87399 198.37399 203.76401 207.05299 213.037 216.326 219.41701 222.42 227.304 232.804 237.688 241.879 245.168 249.964 253.55 256.83899 259.84201 264.72601 270.22601 275.72601 281.22601 286.10999 289.39899 292.68799 300.586 306.086 311.47601 314.76501 320.26501 325.14899 330.539 333.828 338.62399 341.715 350.21799 355.10199 359.98599 364.87 370.37 375.254 380.754 386.14401 389.43301 394.31699 400.30099 403.59 408.38599 411.97198 415.26099 418.35199 423.14801 428.64801 434.14801 439.64801 444.53201 447.82101 451.10999 455.90601 459.492 462.78101 467.66501 473.16501 478.66501 484.05499 487.34399 490.34698 493.43799 498.32199 503.82199 509.21201 512.50098 517.297 520.388 525.27197 528.86902 531.96002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan46">energía, en forma de trabajo, para subir agua y llenar el tanque. Una vez almacenada en el tanque, el agua tiene cierta</tspan></text>
+        </g>
+        <g
+           id="g50">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,727.389)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text54"><tspan
+               x="0 4.8839998 10.384 15.268 18.766001 24.167 27.257999 33.549999 37.641998 43.141998 48.641998 51.645 56.528999 62.028999 66.913002 70.003998 74.800003 79.288002 83.379997 88.879997 94.379997 99.264 103.356 107.547 111.749 116.237 120.329 125.213 130.80099 134.992 137.995 141.086 146.586 151.382 155.067 159.951 165.451 170.33501 174.427 178.618 184.118 189.519 194.403 199.903 206.19501 210.287 215.787 218.78999 221.881 224.972 227.97501 232.85899 237.743 241.42799 245.718 251.911 256.10199 261.50299 266.38699 270.07199 276.26501 280.45599 284.05301 288.93701 293.82101 296.82401 299.91501 304.79901 309.68301 314.677 318.86801 321.871 325.556 330.44 335.94 340.73599 343.827 349.327 354.81601"
+               y="0"
+               sodipodi:role="line"
+               id="tspan52">energía potencial que, si es liberada, puede utilizarse para realizar trabajo. </tspan></text>
+        </g>
+        <g
+           id="g56">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,386.6,727.389)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text60"><tspan
+               x="0 7.3039999 11.693 15.884 21.384001 26.785 29.875999 33.561001 39.061001 42.658001 48.950001 53.042 59.146999 63.844002 69.344002 75.448997 80.948997 85.646004 90.529999 93.621002 99.121002 105.226 112.112 116.204 121.088 127.193 132.077 136.961 142.362 145.453 152.339 156.431 163.317 167.409 170.5 176"
+               y="0"
+               sodipodi:role="line"
+               id="tspan58">El voltaje proporciona energía a los</tspan></text>
+        </g>
+        <g
+           id="g62">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,714.689)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text66"><tspan
+               x="0 4.8839998 7.9749999 12.771 17.655001 21.34 26.037001 31.537001 37.641998 42.526001 46.728001 49.521999 52.316002 55.319 60.819 63.612999 69.718002 75.822998 80.707001 83.402 86.492996 91.376999 95.667 98.362 104.467 109.351 114.235 123.332 126.423 130.108 134.992 137.687 146.87199 152.37199 157.87199 162.756 167.552 171.842 176.726 179.52 185.625 191.125 195.82201 198.517 204.62199 210.815 213.50999 218.394 221.397 226.09399 230.978 237.08299 240.174 243.85899 249.25999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan64">electrones, lo que les permite moverse por un circuito.</tspan></text>
+        </g>
+        <g
+           id="g68">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,283.694,714.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text72"><tspan
+               x="0 6.6989999 11.583 14.278 19.778 25.278 28.368999 33.868999 38.752998 44.252998 46.948002 52.448002 57.332001 60.125999 65.625999 71.027 74.117996 77.209 82.004997 85.096001 89.980003 92.675003 97.558998 101.849 104.643 109.439 112.53 115.324 120.824 126.225 129.31599 132.319 135.11301 137.907 142.10899 145.2 153.791 159.291 164.692 167.783 170.87399 175.758 180.642 186.043 190.927 193.72099 202.224 207.108 212.608 215.69901 220.58299 225.98399 229.075 233.959"
+               y="0"
+               sodipodi:role="line"
+               id="tspan70">La unidad de voltaje es el volt, simbolizada mediante </tspan></text>
+        </g>
+        <g
+           id="g74">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,520.7,714.689)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text78"><tspan
+               x="0"
+               y="0"
+               id="tspan76">V</tspan></text>
+        </g>
+        <g
+           id="g80">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,528.7,714.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text84"><tspan
+               x="0"
+               y="0"
+               id="tspan82">.</tspan></text>
+        </g>
+        <g
+           id="g86">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,689.389)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text90"><tspan
+               x="0 7.8979998 13.398 18.282 23.166 26.257 31.141001 37.245998 40.842999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan88">Corriente</tspan></text>
+        </g>
+        <g
+           id="g92">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,664.089)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text96"><tspan
+               x="0 6.105 10.296 14.08 18.964001 25.454 29.348 34.848 41.338001 45.231998 53.735001 58.618999 61.709999 66.505997 70.191002 73.281998 78.078003 82.268997 86.053001 90.936996 96.436996 101.937 107.437 112.937 117.821 120.912 126.313 131.09801 134.882 139.172 145.05701 148.951 153.83501 158.037 161.12801 166.01199 171.51199 174.515 179.399 184.283 190.267 194.05099 199.55099 205.05099 208.054 211.145 216.02901 219.12 223.916 227.81 231.59399 237.09399 243.683 247.467 252.351 257.75201 260.84299 264.52802 269.41199 278.00299 284.49301 288.38699 293.78799 298.672 302.76401 306.65799 315.16101 320.04501 323.13599 327.93201 331.617 334.70801 339.504 343.69501 347.479 351.76901 357.75299 361.53699 367.03699 372.53699 377.42099 380.51199 385.91299 391.897 395.681 401.181 406.681 410.97101 413.974 417.065 420.15601 425.65601 432.146 436.04001 442.53 446.42401 451.22 455.41101 459.19501 464.69501 467.78601 471.47101 477.961 481.85501 487.25601 492.14001 497.64001 502.52399 505.52701 508.61801 514.11798 519.61798 523.40198 527.29602 533.995"
+               y="0"
+               sodipodi:role="line"
+               id="tspan94">Si en un material conductor se establece voltaje, un extremo del material se vuelve positivo y el otro negativo. El</tspan></text>
+        </g>
+        <g
+           id="g98">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,651.489)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text102"><tspan
+               x="0 3.6849999 8.5690002 12.859 18.26 21.351 24.441999 29.326 34.826 40.326 43.119999 48.004002 52.293999 55.088001 60.588001 66.176003 68.970001 77.473 82.973 88.473 91.564003 100.067 103.158 108.042 113.542 116.633 122.133 124.927 130.427 135.311 138.105 141.196 146.696 150.98599 153.78 158.664 161.755 166.55099 171.435 174.526 178.211 183.711 189.112 193.996 198.38499 201.179 204.18201 207.27299 212.77299 216.37 221.254 225.64301 228.437 233.937 238.733 243.02299 248.52299 253.517 256.311 261.10699 264.297 267.091 271.97501 277.37601 280.46701 284.15201 288.948 297.539 303.12701 305.92099 311.42099 316.30499 321.70599 326.59 329.681 332.772 338.272 343.772 346.56601 352.06601 356.862 360.052 362.84601 371.349 376.233 379.32401 384.12 387.80499 390.896 395.69199 398.88199 401.67599 407.17599 412.06 416.26199 419.353 424.34698 427.14099 431.93701 435.02802 437.82199 442.70599 448.20599 451.297 454.89401 459.77802 468.36899 473.86899 476.66299 482.16299 487.66299 491.953 494.95599 498.047 501.138 506.638 512.138 515.03101"
+               y="0"
+               sodipodi:role="line"
+               id="tspan100">resultado es un movimiento de los electrones libres desde el extremo negativo del material hasta el extremo positivo. </tspan></text>
+        </g>
+        <g
+           id="g104">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,547,651.489)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text108"><tspan
+               x="0 7.3039999 11.594 15.279"
+               y="0"
+               sodipodi:role="line"
+               id="tspan106">Este</tspan></text>
+        </g>
+        <g
+           id="g110">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,638.789)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text114"><tspan
+               x="0 9.1850004 14.685 20.184999 23.188 32.373001 35.464001 40.348 46.342999 50.028 56.518002 60.301998 66.406998 72.292 76.075996 80.959999 84.051003 88.934998 93.731003 97.416 102.113 107.613 113.718 118.602 123.893 127.677 132.561 137.85201 141.636 144.63901 151.129 154.91299 161.01801 167.123 173.008 176.79201 181.082 186.967 190.75101 195.63499 201.13499 207.24001 212.74001 217.62399 223.509 227.293 232.089 237.589 246.774 253.26401 257.048 261.93201 267.43201 272.31601 277.112 280.203 285.08701 291.19199 294.87701 299.673"
+               y="0"
+               sodipodi:role="line"
+               id="tspan112">movimiento de electrones es lo que se conoce como corriente.</tspan></text>
+        </g>
+        <g
+           id="g116">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,336.385,638.789)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text120"><tspan
+               x="0 6.6989999 12.584 16.368 21.868 27.368 30.459 35.959 40.842999 47.333 51.117001 56.617001 62.501999 66.286003 71.082001 76.582001 80.266998 83.863998 86.955002 91.838997 97.338997 100.43 106.315 110.099 114.895 120.186 123.97 128.854 132.946 136.73 141.526 150.117 155.617 160.50101 164.09801 168.98199 172.76601 176.55 180.752 183.843 192.43401 197.93401 203.33501 206.42599 209.517 214.401 219.285 224.785"
+               y="0"
+               sodipodi:role="line"
+               id="tspan118">La unidad de corriente es el ampere, simbolizado</tspan></text>
+        </g>
+        <g
+           id="g122">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,626.189)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text126"><tspan
+               x="0 8.5909996 13.475 18.875999 21.966999 26.851 32.351002 35.442001 40.326"
+               y="0"
+               sodipodi:role="line"
+               id="tspan124">mediante </tspan></text>
+        </g>
+        <g
+           id="g128">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,71.6,626.189)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text132"><tspan
+               x="0"
+               y="0"
+               id="tspan130">A</tspan></text>
+        </g>
+        <g
+           id="g134">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,79.5,626.189)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text138"><tspan
+               x="0"
+               y="0"
+               id="tspan136">.</tspan></text>
+        </g>
+        <g
+           id="g140">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,600.889)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text144"><tspan
+               x="0 7.8979998 12.782 17.072001 20.163 24.365 28.049999 32.933998 39.039001 43.923 47.014"
+               y="0"
+               sodipodi:role="line"
+               id="tspan142">Resistencia</tspan></text>
+        </g>
+        <g
+           id="g146">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,575.589)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text150"><tspan
+               x="0 7.3039999 12.804 17.688 23.188 28.688 34.573002 37.763 42.646999 48.532001 51.623001 57.123001 63.007999 66.197998 74.700996 79.584999 82.676003 87.472 91.156998 94.248001 99.043999 102.531 105.721 110.605 116.006 119.097 123.387 126.39 131.681 134.871 139.755 145.15601 148.841 152.526 155.617 160.50101 165.90199 168.993 173.789 176.979 180.16901 183.25999 188.661 193.347 196.537 201.33299 204.424 209.308 214.192 217.19501 220.88 226.38 231.88 236.76401 241.45 244.541 247.632 250.72301 256.12399 259.80899 264.69299 269.379 272.47 276.76001 282.05099 285.241 293.74399 299.24399 304.12799 309.62799 314.51199 320.397 323.48801 328.37201 334.25699 337.44699 342.24301 346.53299 349.62399 354.91501 358.00601 363.89099 367.08099 372.58099 377.87201 380.96301 386.46301 391.34698 396.638 399.729 404.61301 410.49799 413.68799 418.48401 423.98401 428.86801 434.36801 439.86801 445.75299 448.94299 453.827 459.327 464.728 469.612 474.496 480.38101 483.57101 488.45499 493.95499 499.84 502.931 507.815 510.81799 516.31799 524.909 530.409 534.61102"
+               y="0"
+               sodipodi:role="line"
+               id="tspan148">Cuando en un material existe corriente, los electrones libres se mueven en éste y de vez en cuando chocan con átomos.</tspan></text>
+        </g>
+        <g
+           id="g152">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,562.889)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text156"><tspan
+               x="0 6.6989999 10.989 14.08 18.964001 23.254 25.948999 30.833 36.234001 39.325001 42.416 46.618 49.709 55.209 60.709 65.593002 69.883003 72.677002 78.078003 81.763 87.263 92.763 98.263 103.147 108.031 113.531 116.226 121.726 127.226 132.11 134.90401 137.907 143.407 147.69701 150.491 155.287 158.37801 163.26199 168.058 171.149 174.834 180.334 185.834 190.718 195.008 197.703 203.203 206.29401 211.09 214.77499 220.27499 225.159 230.659 233.453 238.24899 241.34 246.84 252.34 255.134 260.535 265.41901 268.21301 272.50299 278.00299 280.698 285.582 291.082 295.966 299.46399 304.86499 307.95599 312.75201 315.54599 318.34 323.224 328.724 334.224 336.91901 340.01001 345.51001 348.20499 353.08899 358.58899 363.47299 366.564 369.259 373.54901 378.43301 381.12799 384.81299 389.69699 393.89899 396.98999 400.58701 403.67801 409.17801 414.67801 419.56201 422.35599 426.646 432.146 434.841 443.43201 448.93201 454.33301 457.42401 465.927 469.01801 473.90201 479.40201 482.49301 487.89401 490.68799 493.48199 500.181 505.681 508.68399 512.36902 517.25299 520.047 528.54999 533.43402"
+               y="0"
+               sodipodi:role="line"
+               id="tspan154">Estas colisiones provocan que los electrones pierdan algo de su energía, con lo cual se restringe su movimiento. Entre más</tspan></text>
+        </g>
+        <g
+           id="g158">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,550.289)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text162"><tspan
+               x="0 4.8839998 10.384 13.387 16.478001 20.768 23.858999 29.358999 34.859001 39.654999 44.341 47.431999 52.931999 57.816002 63.316002 68.112 71.302002 74.392998 82.896004 87.779999 92.366997 95.458 99.748001 104.94 108.031 111.716 116.6 120.802 123.893 127.578 130.66901 136.16901 141.57001 146.86099 149.952 154.748 158.235 161.326 164.923 168.01401 173.51401 176.605 182.39101 185.48199 190.98199 196.27299 199.364 204.16 207.25101 212.13499 216.931 220.022 223.707 229.207 234.707 239.591 243.793 246.983 250.07401 256.77301 260.97501 264.06601 269.258 272.349 276.034 280.918 285.12 288.211 291.896 294.89899 299.78299 304.66699 307.758 313.258 319.04401 322.13501 327.63501 332.51901 336.116 339.207 344.49799 347.58899 353.375 356.466 361.35001 365.64001 368.64301 373.93399 377.02499 382.52499 387.32101 390.41199 395.29599 398.89301 407.48401 410.57501 416.07501 420.95901 426.45901 431.651 434.742 440.242 445.742 449.73499 452.82599 457.70999 461.09799 464.189 467.28 470.28299 475.78299 481.668 484.759 490.259 495.45099 498.54199 507.133 511.92899 515.02002 519.90399 523.50098 526.59198 531.47601 534.479"
+               y="0"
+               sodipodi:role="line"
+               id="tspan160">colisiones haya, más se restringe el flujo de electrones. Esta restricción varía y está determinada por el tipo de material.</tspan></text>
+        </g>
+        <g
+           id="g164">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,537.589)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text168"><tspan
+               x="0 7.3039999 12.991 15.884 21.989 26.686001 32.186001 38.181 41.271999 46.155998 52.261002 57.761002 64.053001 66.945999 73.051003 78.044998 80.938004 87.042999 93.236 96.128998 105.314 110.715 114.4 119.284 124.08 127.171 132.67101 135.86099 138.754 144.85899 149.853 152.746 157.44299 162.327 166.52901 170.214 175.09801 178.189 184.29401 189.69501 192.786 197.582 200.47501 206.668 209.561 215.061 221.166 226.666 232.771 237.655 242.539 246.82899 251.823 254.716 260.216 263.40601 266.29901 269.896 272.987 279.09201 282.77701 288.36499 291.258 297.36301 302.35699 305.25 310.04599 313.13699 318.021 322.81699 326.50201 331.19901 336.69901 342.80399 347.68799 352.077 354.97 359.26001 364.254 367.147 370.14999 373.241 378.741 387.92599 393.51401 396.40701 401.005 405.88901 410.17899 413.26999 417.47198 421.15701 426.04099 432.146 437.03 440.121"
+               y="0"
+               sodipodi:role="line"
+               id="tspan166">La propiedad de un material de restringir u oponerse al flujo de electrones se llama resistencia</tspan></text>
+        </g>
+        <g
+           id="g170">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,475,537.589)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text174"><tspan
+               x="0 2.8929999 5.7859998 13.09 15.983 18.875999 25.575001 30.569 33.462002 37.058998 41.943001 46.233002 49.236 53.526001 56.617001 61.500999 67.000999 71.796997 74.888 79.882004 82.775002 87.658997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan172">, R. La resistencia es</tspan></text>
+        </g>
+        <g
+           id="g176">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,524.989)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text180"><tspan
+               x="0 3.0910001 7.9749999 10.67 16.17 21.67 27.17 31.459999 34.463001 39.347 42.438 47.938 53.438 56.231998 61.028 63.821999 66.824997 71.709 74.502998 79.387001 84.788002 88.473 92.157997 95.161003 100.045 105.545 108.636 113.52 116.215 121.715 124.509 128.711 133.595 136.38901 141.27299 146.77299 152.174 155.85899 160.743 165.033 169.91701 172.612 177.496 182.996 185.78999 191.28999 196.69099 205.282 209.57201 212.366 215.061 219.351 222.354 230.94501 236.44501 241.94501 244.948 248.039 252.923 257.80701 263.30701 268.19101 270.88599 279.47699 284.36099 289.76199 292.853 297.737 303.237 306.328 311.21201 313.90701 322.091 324.78601 328.47101 331.474 336.358 339.15201 342.155 347.039 350.13 353.72699 358.61099 361.405 366.905 370.50201 373.59299 378.47699 383.97699 388.86099 391.556 397.056 405.647 410.53101 416.03101 420.827 424.51199"
+               y="0"
+               sodipodi:role="line"
+               id="tspan178">la oposición a la corriente y se expresa en ohms, simbolizada mediante Ω (la letra griega omega).</tspan></text>
+        </g>
+        <g
+           id="g182">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,499.689)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text186"><tspan
+               x="0 7.8979998 13.398 19.591 25.695999 31.801001 36.685001 40.369999 45.869999 50.467999 55.352001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan184">Conductores</tspan></text>
+        </g>
+        <g
+           id="g188" />
+        <g
+           id="g190">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,474.389)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text194"><tspan
+               x="0 6.6989999 12.199 16.687 19.58 28.083 32.966999 36.057999 40.854 44.539001 47.630001 52.425999 55.516998 60.401001 64.790001 67.682999 72.567001 78.067001 83.567001 89.067001 94.567001 99.450996 102.542 107.943 111.628 116.512 121 123.893 128.095 133.595 139.282 142.175 147.05901 152.55901 158.05901 162.855 165.946 169.037 174.537 178.92599 181.819 187.319 192.819 197.813 200.70599 206.20599 211.09 214.687 223.278 226.369 229.37199 234.256 239.94299 242.836 247.632 250.92101 253.814 259.314 264.198 268.48801 274.07599 276.96899 282.46899 287.46301 290.35599 293.44699 298.44101 301.33401 306.21799 311.71799 315.315 319 322.091 326.97501 332.37601 335.46701 340.35101 343.24399 345.939 352.242 355.33301 360.21701 365.71701 370.60101 376.189 379.082 384.582 390.26901 393.16199 398.66199 402.259 407.14301 412.82999 415.72299 421.22299 426.62399 435.215 440.099 443.784 449.37201 452.26501 457.76501 462.858 465.75101 470.547 473.638 478.522 483.31799 486.409 490.09399 495.59399 501.09399 505.978 510.367 513.26001 516.35101 519.354 524.854 528.539 533.42297"
+               y="0"
+               sodipodi:role="line"
+               id="tspan192">Los materiales conductores son aquellos que permiten el paso de la corriente. Tienen un gran número de electrones libres</tspan></text>
+        </g>
+        <g
+           id="g196">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,461.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text200"><tspan
+               x="0 5.7859998 8.8769999 13.079 18.271 21.362 26.246 31.042 34.727001 39.611 44.494999 47.498001 52.382 56.067001 59.07 63.953999 68.837997 74.624001 77.714996 83.214996 88.615997 92.609001 95.699997 101.2 106.7 110.99 115.786 120.67 124.663 127.754 133.155 138.347 141.438 146.938 152.438 158.224 161.216 166.408 169.49899 172.502 176.187 181.071 185.658 188.64999 193.534 196.537 201.42101 206.30499 209.396 213.08099 218.58099 223.98199 228.866 233.453 236.54401 242.04401 247.23599 250.228 255.728 260.52399 263.61499 268.49899 273.99899 278.883 281.974 287.16599 290.15799 295.04199 300.828 303.82001 308.10999 313.896 316.987 321.78299 326.073 329.164 332.849 338.25 343.134 346.22501 351.72501 355.41 360.20599 363.297 366.388 373.08701 378.27899 381.271 389.862 394.65799 400.15799 405.65799 409.34299 412.43399 417.62601 420.61801 426.11801 431.31 434.302 437.39301 442.89301 447.48001 450.47198 459.06299 463.85901 466.95001 471.83401 474.92499 479.72101 484.30801 487.39899 491.689 497.189 502.97501 505.96701 511.46701 516.96698 521.85101 527.35101 532.85101"
+               y="0"
+               sodipodi:role="line"
+               id="tspan198">y se caracterizan por poseer de uno a tres electrones de valencia en su estructura. La mayoría de los metales son buenos</tspan></text>
+        </g>
+        <g
+           id="g202">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,449.089)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text206"><tspan
+               x="0 4.8839998 10.384 15.884 21.384001 26.884001 31.768 34.859001 40.259998 43.945 48.828999 53.030998 56.418999 59.708 66.406998 71.896004 75.184998 80.684998 83.776001 88.571999 91.663002 97.152 100.441 105.325 110.11 113.498 118.294 121.979 125.268 133.85899 138.655 141.746 147.246 151.437 154.825 163.328 168.21201 171.30299 176.099 179.784 182.875 187.67101 191.356 194.645 199.52901 205.02901 210.52901 216.02901 221.52901 226.41299 229.504 235.004 238.106 241.494 244.783 250.877 254.166 259.04999 262.63599 266.02399 270.90799 276.40799 281.80899 285.49399 290.983 294.272 299.15601 303.94101 307.32901 312.125 315.81 319.099 323.38901 326.48001 331.98001 337.38101 340.47198 345.35599 350.85599 353.94699 358.74301 362.13101 365.42001 372.11899 375.70499 379.09299 383.97699 389.47699 394.87799 398.56299 404.052 407.341 412.22501 417.01001 420.39801 425.194 428.879 432.168 440.759 445.55499 448.646 453.53 457.12701 460.21799 465.10199 468.68799 472.07599 476.95999 482.45999 487.95999 493.45999 498.86099 503.745 506.836 512.336 516.52698 519.91498 528.41803 533.302"
+               y="0"
+               sodipodi:role="line"
+               id="tspan204">conductores. La plata es el mejor material conductor, y el cobre es el siguiente. El cobre es el material conductor más</tspan></text>
+        </g>
+        <g
+           id="g208">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,436.389)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text212"><tspan
+               x="0 4.8839998 13.475 18.875999 21.966999 25.058001 29.854 38.445 43.328999 48.828999 51.919998 57.507999 61.094002 66.495003 69.585999 72.588997 75.68 78.771004 83.654999 88.539001 94.039001 100.232 103.818 109.318 114.719 118.404 123.904 129.40401 135.091 138.578 143.46201 148.45599 152.04201 160.545 165.429 170.929 176.429 181.423 185.009 189.89301 194.689 198.37399 204.666 208.153 213.653 219.153 224.84 228.327 231.418 237.006 240.592 245.993 249.084 253.968 256.97101 261.85501 265.34201 268.92801 275.62701 281.91901 285.40601 290.29001 293.293 296.978 301.862 307.362 310.36499 313.45599 318.95599 323.95001 327.53601 332.332 335.423 340.30701 345.19101 348.194 351.879 354.97 359.854 365.354 369.556 373.142 376.629 381.513 386.914 395.505 401.005 406.505 415.09601 419.98001 425.38101 428.47198 434.159 437.646 441.936 447.52399 451.10999 455.90601 464.49701 469.99701 473.08801 477.97198 483.56 487.146 491.94199 495.03299 499.82901 508.42001 513.91998 517.60498 523.19299 526.77899 532.27899"
+               y="0"
+               sodipodi:role="line"
+               id="tspan210">ampliamente utilizado porque es menos caro que la plata. En circuitos eléctricos, comúnmente se emplea alambre de</tspan></text>
+        </g>
+        <g
+           id="g214">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,423.789)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text218"><tspan
+               x="0 4.8839998 10.384 15.884 19.569 24.452999 27.148001 32.032001 37.532001 46.123001 51.623001 54.318001 59.202 64.702003 70.202003 75.702003 81.202003 85.998001 89.088997 94.588997 97.592003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan216">cobre como conductor.</tspan></text>
+        </g>
+        <g
+           id="g220">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,398.489)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text224"><tspan
+               x="0 6.6989999 10.087 13.178 18.677999 24.079 27.17 30.261 35.056999 38.147999 42.944 46.035 49.125999 52.129002 57.320999 60.411999 65.295998 70.696999 74.382004 78.067001 81.07 85.954002 91.454002 94.544998 99.737 102.729 108.515 111.606 114.609 119.801 122.892 126.489 131.373 135.66299 138.754 142.95599 146.047 150.931 156.431 161.22701 164.31799 169.50999 172.601 176.89101 182.39101 188.177 191.16901 194.25999 199.056 203.64301 206.73399 211.53 216.414 221.914 225.005 228.09599 233.49699 238.381 243.881 248.765 253.35201 256.44299 261.84399 266.728 271.01801 274.10901 278.99301 283.789 288.37601 291.46701 296.96701 300.564 305.448 309.73801 314.62201 320.12201 323.125 328.009 332.59601 335.68701 340.57101 346.35699 349.349 352.44 357.94 363.44 368.94 373.52701 376.51901 379.60999 385.01099 389.59799 392.689 397.48499 400.57599 404.26099 409.14499 414.54599 417.63699 420.728 426.228 430.815 433.80701 438.69101 441.78201 446.578 451.46201 454.55301 458.14999 461.241 466.125 471.625 475.827 478.918 482.009 488.70801 492.09601 495.08801 500.58801 506.08801 509.091 512.18201 517.06598 520.15698 525.349 528.341 533.22498"
+               y="0"
+               sodipodi:role="line"
+               id="tspan222">El voltaje, la corriente y la resistencia son las cantidades básicas presentes en todos los circuitos eléctricos. El voltaje es</tspan></text>
+        </g>
+        <g
+           id="g226">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,385.789)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text230"><tspan
+               x="0 5.5 10.384 15.268 20.152 24.354 29.238001 32.923 36.014 41.799999 44.890999 50.390999 55.275002 58.959999 64.152 67.242996 72.742996 76.428001 81.928001 87.428001 92.928001 97.723999 100.815 104.808 107.899 112.783 118.283 121.88 125.565 128.65601 133.53999 138.94099 142.032 146.916 150.007 153.09801 158.983 162.07401 165.077 170.368 173.459 177.056 181.94 186.23 189.233 193.52299 196.614 201.498 206.998 211.79401 214.88499 220.17599 223.267 226.27 229.36099 237.864 240.955 243.95799 249.24899 252.34 255.343 260.634 263.72501 268.521 273.405 278.905 281.996 285.08701 290.48801 295.37201 301.25699 304.34799 309.84799 315.04001 318.13101 323.01501 328.51501 332.112 335.797 338.888 343.772 349.173 352.26401 357.55499 360.646 365.53 371.31601 374.40701 379.90701 385.79199 388.883 393.67899 396.76999 400.45499 405.33899 410.73999 413.83099 416.922 422.323 425.513 428.604 435.30301 440.495 443.586 447.271 452.06699 455.15799 460.04199 464.92599 468.017 473.517 479.30301 482.39401 487.89401 493.086 496.177 501.061 505.35101 508.354 513.23798 517.92401 521.01501 524.01801 527.703 532.58698"
+               y="0"
+               sodipodi:role="line"
+               id="tspan228">necesario para producir corriente, y la resistencia limita la cantidad de corriente en un circuito. La relación de estas tres</tspan></text>
+        </g>
+        <g
+           id="g232">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,373.189)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text236"><tspan
+               x="0 4.8839998 9.7679996 15.268 18.271 21.362 26.862 31.746 37.245998 42.130001 46.419998 49.115002 53.404999 58.289001 60.984001 66.484001 71.367996 75.657997 80.454002 84.139 87.230003 92.730003 97.613998 100.309 108.9 113.784 119.185 122.276 127.16 132.66 135.75101 140.63499 143.33 146.42101 151.30499 154 157.091 161.88699 167.38699 170.181 175.681 180.565 183.25999 191.158 196.658 205.24899"
+               y="0"
+               sodipodi:role="line"
+               id="tspan234">cantidades se describe mediante la ley de Ohm.</tspan></text>
+        </g>
+        <g
+           id="g238">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,347.889)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text242"><tspan
+               x="0 6.6989999 12.089 15.279 18.282 23.166 29.15 32.34 37.84 43.131001 46.320999 54.219002 59.719002 68.805 71.995003 77.396004 82.279999 86.57 91.454002 95.051003 98.141998 103.642 109.032 112.222 120.725 125.609 128.612 133.496 142.08701 146.883 149.974 153.065 157.94901 162.745 171.336 176.22 181.72 184.811 190.10201 193.29201 196.383 201.674 204.864 208.461 213.345 216.436 221.32001 226.116 229.207 234.707 240.69099 243.881 248.765 254.166 257.25699 260.94199 266.233 269.423 274.923 280.423 283.42599 286.517 291.401 294.492 299.28799 302.577 305.767 310.56299 316.06299 319.74799 323.345 326.436 331.32001 336.82001 339.91101 345.202 348.392 354.37601 357.56601 361.16299 366.047 370.33701 373.34 377.63 380.72101 385.60501 391.10501 395.901 398.992 404.38199 407.57199 412.36801 418.35199 421.54199 427.04199 432.927 436.117 441.00101 444.004 447.689 452.573 458.073 461.07599 464.16699 469.66699 472.85699 476.047 483.94501 489.44501 498.53101 501.72101 504.724 509.608 518.19897 523.69897 526.70203 531.586"
+               y="0"
+               sodipodi:role="line"
+               id="tspan240">La ley de Ohm describe matemáticamente la relación entre voltaje, corriente y resistencia en un circuito. Ohm también</tspan></text>
+        </g>
+        <g
+           id="g244">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,335.189)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text248"><tspan
+               x="0 5.5 10.384 13.475 18.271 21.955999 30.459 33.549999 39.049999 45.034 48.323002 53.823002 59.323002 64.712997 68.001999 72.292 75.877998 79.167 83.962997 87.549004 90.837997 96.337997 101.838 104.841 107.932 112.816 115.819 121.209 124.498 128.78799 134.17799 137.467 146.058 150.942 156.343 159.43401 162.52499 167.409 172.81 178.2 181.489 186.373 191.873 197.373 201.66299 204.666 209.55 215.05 218.14101 222.937 226.226 229.515 238.106 242.99001 248.49001 253.99001 258.77499 262.064 265.66101 270.54501 274.83499 277.83801 282.12799 285.21899 290.103 295.603 300.39899 303.48999 308.88 312.16901 317.66901 321.354 326.854 332.354 337.854 342.64999 348.04001 351.32901 359.92001 364.80399 369.58899 372.87799 377.67401 383.17401 386.85901 390.45599 393.547 398.431 403.931 407.022 411.81799 415.10699 418.396 423.19199 426.38199 429.67099 434.55499 440.05499 444.939 453.53 458.32599 462.616 465.905 469.194 477.69699 482.58099 487.366 490.655 494.34 499.13599 503.42599 506.517 510.71899 513.81 518.69397 524.19397 529.078 532.16901"
+               y="0"
+               sodipodi:role="line"
+               id="tspan246">determinó que si el voltaje se mantiene constante, menos resistencia produce más corriente, y, además, más resistencia</tspan></text>
+        </g>
+        <g
+           id="g250">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,322.589)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text254"><tspan
+               x="0 5.5 9.1850004 14.685 20.184999 25.684999 30.569 35.452999 38.247002 46.75 51.633999 57.133999 62.633999 66.924004 69.718002 74.601997 80.002998 83.688004 87.373001 90.375999 95.260002 100.76 103.851 108.647 111.441 114.235 120.934 125.818 128.612 131.703 136.58701 142.08701 144.881 150.381 155.265 158.05901 165.957 171.457 180.048 182.842 187.638 191.92799 195.019 199.903 205.304 208.395 213.27901 218.16299 223.047 225.841 231.341 236.841 241.72501 244.519 247.522 252.40601 255.2 260.08401 265.58401 269.181 272.866 275.957 280.841 286.242 289.33301 294.21701 297.01099 301.89499 306.185 308.979 314.38 317.47101 321.15601 326.04001 330.836 333.927 338.811 347.314 352.198 357.698 360.789 365.673 368.46701 373.96701 377.65201 383.15201 388.65201 394.05301 397.73801 402.62201 405.71301 411.21301 416.61401 421.49799 424.58899 427.383 432.267 435.26999 438.064 443.564 449.064 452.155 455.15799 460.04199 463.133 468.017 470.811 475.69501 478.48901 481.492 486.992 492.492 497.37601 501.061 505.263 510.147 518.73798 523.62201 529.02301 532.11401"
+               y="0"
+               sodipodi:role="line"
+               id="tspan252">produce menos corriente. La ley de Ohm establece que la corriente es directamente proporcional al voltaje e inversamente</tspan></text>
+        </g>
+        <g
+           id="g256">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,309.889)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text260"><tspan
+               x="0 5.5 9.1850004 14.685 20.184999 25.684999 29.282 34.166 37.257 42.757 48.257 53.053001 56.341999 59.334 64.427002 67.32 70.411003 75.503998 78.397003 82.082001 86.966003 91.167999 94.259003 98.549004 101.552 106.436 111.936 116.82 119.911 125.004 127.897 132.78101 138.28101 143.78101 147.37801 152.26199 156.552 161.436 166.936 172.02901 174.922 179.806 185.493 188.485 191.48801 196.58099 199.573 203.77499 206.866 212.366 217.866 220.957 225.841 231.242 234.33299 239.42599 242.319 246.004 251.504 255.101 263.69199 269.19199 272.28299 277.07901 280.36801 283.35999 287.04501 293.23801 301.13599 304.22699 311.71799 314.61099 320.11099 325.61099 331.11099 336.61099 341.70401 344.69601 348.48001 351.47198 356.35599 360.84399 363.737 366.828 371.82199 374.814 379.698 385.099 388.784 392.46899 395.56 400.444 405.845 408.936 414.02899 416.922 421.806 427.49301 430.48499 435.28101 443.87201 449.37201 454.25601 457.94101 462.737 467.02701 470.01901 472.71399 480.70001 483.59299 488.47699 492.965 495.858 500.742 504.03101 506.92401 512.42401 517.92401 521.01501 524.01801 528.90198 531.99298"
+               y="0"
+               sodipodi:role="line"
+               id="tspan258">proporcional a la resistencia expresada en la siguiente fórmula: I=V/R donde I es la corriente en amperes, V es el voltaje</tspan></text>
+        </g>
+        <g
+           id="g262">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,297.289)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text266"><tspan
+               x="0 4.8839998 10.384 13.178 18.677999 24.079 27.17 30.261 34.550999 37.245998 42.745998 45.540001 52.844002 55.539001 60.423 64.712997 67.507004 70.510002 75.393997 78.188004 81.785004 86.668999 90.871002 93.961998 98.251999 101.343 106.227 111.727 116.523 119.614 124.498 127.193 132.077 137.577 140.371 145.871 151.272 159.86301 164.153"
+               y="0"
+               sodipodi:role="line"
+               id="tspan264">en volts y R es la resistencia en ohms.</tspan></text>
+        </g>
+        <g
+           id="g268">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,271.989)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text272"><tspan
+               x="0 7.8979998 14.091 16.785999 21.67 25.355 30.150999 39.335999 45.441002 48.532001 54.032001 56.826 62.931 67.815002 73.216003 78.099998 81.785004 84.875999 89.760002 95.161003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan270">Un ejemplo práctico:</tspan></text>
+        </g>
+        <g
+           id="g274">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,246.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text278"><tspan
+               x="0 7.8979998 12.782 17.666 22.549999 26.84 29.843 32.933998 37.818001 46.409 51.810001 56.903 60.389999 63.480999 66.571999 71.973 80.564003 83.654999 89.154999 93.950996 98.439003 101.926 107.426 113.718 117.205 120.296 125.18 130.58099 134.16701 137.65401 143.15401 148.03799 151.72301 157.916 161.502 167.002 172.502 177.496 181.082 186.483 191.367 199.95799 205.45799 210.452 214.03799 218.922 224.323 229.207 234.707 237.798 243.386 246.972 250.569 253.66 258.54401 264.04401 268.92801 274.42801 279.92801 286.121 289.707 292.70999 298.397 301.884 307.384 312.884 315.97501 321.56299 325.14899 330.54999 336.237 339.724 345.224 350.108 353.19901 358.69901 363.69299 367.27899 372.77899 377.57501"
+               y="0"
+               sodipodi:role="line"
+               id="tspan276">Necesitamos iluminar un led, pero nos damos cuenta (leyendo la hoja de datos del</tspan></text>
+        </g>
+        <g
+           id="g280">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,233.989)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text284"><tspan
+               x="0 3.6849999 8.5690002 13.97 17.655001 20.746 25.629999 30.514 35.915001 39.006001 43.889999 47.882999 50.875 56.375 61.875 67.067001 70.157997 74.954002 78.342003 81.432999 84.435997 89.32 95.106003 98.098 102.388 107.58 110.671 116.171 121.572 126.456 135.047 140.239 143.231 147.521 150.909 153.901 159.401 164.285 169.16901 173.965 182.556 188.056 192.64301 195.73399 200.53 203.621 207.306 212.19 217.591 220.68201 225.56599 229.55901 232.55099 238.05099 242.935 245.938 250.82201 254.507 263.01001 266.10101 271.60101 276.48499 281.98499 287.177 290.16901 295.05301 300.55301 304.23801 307.83499 310.92599 315.81 321.31 324.31299 329.505 332.59601 337.78799 340.78 343.871 347.46799 352.35199 357.85199 362.73599 367.323 370.414 375.815"
+               y="0"
+               sodipodi:role="line"
+               id="tspan282">fabricante) que el led se quema si hacemos circular determinada corriente a través de</tspan></text>
+        </g>
+        <g
+           id="g286">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,221.389)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text290"><tspan
+               x="0 4.8839998 9.1739998 12.177 17.061001 19.855 23.540001 29.040001 34.441002 43.032001 50.93 54.615002 57.409 60.104 65.603996 71.103996 74.789001 77.484001 80.574997 86.074997 88.769997 91.861 96.745003 102.146 105.237 110.737 113.531 116.226 121.726 126.61 135.201 140.701 144.991 147.686 152.57001 155.364 158.367 163.25101 168.75101 173.547 177.23199 180.026 185.526 191.026 195.91 198.605 201.696 204.69901 213.28999 216.293 219.384 224.26801 227.953 230.64799 233.739 238.623 241.31799 246.202 251.702 255.299 258.98401 262.07501 266.95901 272.35999 275.45099 280.33499 283.129 288.53 293.414 296.20801 301.004 304.095 309.595 315.095 320.595 325.479 328.27301 331.87 337.37 341.05499 349.55801 354.44199 357.23599 360.83301 365.71701 371.21701 375.50699"
+               y="0"
+               sodipodi:role="line"
+               id="tspan288">éste (20mA), por lo tanto, vamos a tener que limitar la corriente de alguna forma (cosa</tspan></text>
+        </g>
+        <g
+           id="g292">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,208.689)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text296"><tspan
+               x="0 5.5 11 16.489 19.877001 25.377001 30.877001 36.278 41.161999 49.752998 55.252998 60.137001 63.425999 68.926003 73.809998 78.694 83.578003 87.867996 91.156998 96.041 101.541 107.635 110.924 116.424 122.518 125.906 129.50301 134.38699 138.677 141.76801 145.97 149.061 154.561 158.246 161.843 165.231 168.619 174.614 178.299 181.687 187.187 192.687 197.483 201.77299 204.864 208.549 214.03799 217.327 221.01199 226.51199 231.396 236.797 239.888 245.377 248.666 253.55 258.43399 261.82199 267.22299 272.71201 276.10001 281.60001 287.694 290.983 296.483 301.983 305.07401 308.077 312.367 315.755 319.04401 323.92801 329.42801 334.91699 338.30499 343.80499 349.20599 354.69501 358.08301 363.58301 368.379 371.47 376.97"
+               y="0"
+               sodipodi:role="line"
+               id="tspan294">que podemos hacer con un resistor). Si nuestra fuente es de 12 volts, ¿de que valor</tspan></text>
+        </g>
+        <g
+           id="g298">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,196.089)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text302"><tspan
+               x="0 3.0910001 6.0939999 10.978 16.478001 21.570999 24.563 30.063 35.464001 40.556999 43.549 47.839001 52.634998 56.528999 59.521 64.317001 67.606003 70.598 74.195 79.079002 83.369003 86.372002 90.662003 93.752998 99.252998 103.147 106.04 111.54 116.424 120.109 125.202 128.095 133.595 139.095 144.188 147.08099 152.58099 158.08099 163.58099 168.465 177.056 182.556 187.04401 189.937 195.437 199.72701 204.52299 208.41701 211.409 216.205 219.494 222.48599 225.489 230.373 236.06 239.052 243.254 246.345 252.032 255.024 260.52399 266.02399 271.117 274.01001 278.29999 283.39301 286.28601 291.78601 297.28601 302.17001 310.673 315.55701 320.64999 323.642 329.74701 333.03601 335.92899 340.81299 346.21399 349.30499 352.396 357.28 362.07599 370.66699 376.16699"
+               y="0"
+               sodipodi:role="line"
+               id="tspan300">tiene que ser el resistor para que podamos usar el led sin que se queme? Si aplicamos</tspan></text>
+        </g>
+        <g
+           id="g304">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,183.389)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text308"><tspan
+               x="0 3.0910001 7.9749999 13.475 16.17 21.67 26.554001 29.348 37.245998 42.745998 51.249001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan306">ley de Ohm:</tspan></text>
+        </g>
+        <g
+           id="g310">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,158.089)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text314"><tspan
+               x="0 5.5 11 13.794 22.385 29.688999 32.383999 38.577 41.370998 46.474998 51.974998 57.474998 59.972 67.771004 70.466003 73.556999 76.251999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan312">20 mA = 112 V / R</tspan></text>
+        </g>
+        <g
+           id="g316">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,132.789)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text320"><tspan
+               x="0 7.3920002 10.087 16.280001 19.073999 24.573999 30.073999 32.570999 40.369999 43.064999 46.155998 48.851002 54.351002 59.851002 62.645 71.236"
+               y="0"
+               sodipodi:role="line"
+               id="tspan318">R = 15 V / 20 mA</tspan></text>
+        </g>
+        <g
+           id="g322">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,107.489)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text326"><tspan
+               x="0 7.3920002 10.087 16.280001 19.073999 24.573999 30.073999 32.570999 40.369999 43.064999 46.155998 48.851002 54.351002 57.145 62.645 68.144997 70.246002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan324">R = 15 V / 0,02 A</tspan></text>
+        </g>
+        <g
+           id="g328">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,28.5,82.189)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text332"><tspan
+               x="0 7.3920002 10.087 16.280001 19.073999 24.573999 30.073999 35.574001 38.269001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan330">R = 600 Ω</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
