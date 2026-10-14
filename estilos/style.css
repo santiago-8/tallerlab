@@ -1,156 +1,156 @@
-*{
-    box-sizing:  border-box;
+:root {
+    /* 1. DOMINANTE / FONDO (60%) */
+    --color-fondo: #cfbda2;
+    --color-superficie: #f3e9d9;
+
+    /* 2. SECUNDARIO / ESTRUCTURA (30%) */
+    --color-titulos: #1e633d;
+    --color-bordes: #b3a085;
+
+    /* 3. ACENTO / INTERACCIÓN (10%) */
+    --color-botones: #154593;
+    --color-hover: #e1c049;
+    --color-links: #a67c37;
+
+    /* 4. TEXTO Y LECTURA */
+    --color-texto: #1c1a17;
+    --alto-header: 160px;
+}
+
+html {
+    scroll-padding-top: var(--alto-header);
+    /* Evita que los links internos queden tapados */
+}
+
+
+
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
 
-:root
-{
-    --amarillo-led: #ffcf23;
-    --violeta-caja: #6a4e74;
-    --arcilla: #cfb59a;
-    --verde-pote: #89ac9e;
-    --gris: #A3A3A3;
+@media (min-width: 768px) {
+    body header {
+        justify-content: flex-start;
+    }
 }
 
-body
-{
-    background-color: var(--gris);
+body {
+    background-color: var(--color-fondo);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-body div h2
-{
+h1 {
+    font-size: 1rem;
+    color: var(--color-texto);
+}
+
+h2 {
     display: flex;
-    font-size: large;
+    font-size: 1rem;
     margin: 5px;
+    padding: 5px;
+    background-color: var(--color-superficie);
+    color: var(--color-texto);
 }
 
-a:hover
-{
-    background-color: var(--amarillo-led);
-}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 
-a:active
-{
-    background-color: var(--violeta-caja);
-    color: orange;
-}
-
-header
-{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 90vw;
+    width: 100vw;
     height: max-content;
-    margin-bottom: 10px;
-    padding: 10px;
-    background-color: var(--verde-pote);
+    background-color: var(--color-fondo);
+    height: var(--alto-header);
+    border-bottom: 3px solid var(--color-bordes);
+    /* 2px de grosor, línea sólida, color del borde */
 }
 
-header div
-{
+header div {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    padding-bottom: 0.1rem;
 }
 
-header div h1
-{
-    display: none;
-}
-
-header div img
-{
-    width: 10vh;
+header img {
+    width: 2.5rem;
     padding: 5px;
 }
 
-header div nav ul
-{
+header nav ul {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     list-style: none;
-    font-size: 25px;
-    padding: 5px;
-    flex-wrap: wrap;
+    font-size: 1.5rem;
 }
 
-nav ul li a
-{  
-    color: black;
+nav ul li a {
+    display: inline-block;
+    /* Necesario para que respete bien el padding y margen */
+    color: var(--color-texto);
+    background-color: var(--color-superficie);
     text-decoration: none;
-    margin: 10px;
-    padding: 2px
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: 2px solid var(--color-titulos);
+    /* 2px de grosor, línea sólida, color del borde */
+
+    /* Espaciado interno: crea el bloque de fondo sin chocar con los de al lado */
+    padding: 3px 15px;
+    /* 8px arriba/abajo, 16px a los lados */
+    margin: 3px;
+    border-radius: 6px;
 }
 
-a.aca
-{
-    color:black;
-    background-color: var(--amarillo-led); 
+nav ul li a:hover {
+    background-color: var(--color-hover);
 }
 
-main
-{
-    display: flex;
-    justify-content: center;
+nav ul li a:active {
+    background-color: var(--color-links);
+    color: var(--color-botones);
 }
 
-nav.cajalinks
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
-button
-{
-    background-color: var(--amarillo-led);
-    margin: 5vw;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-}
-
-button a
-{
-    text-decoration: none;
-    color: black;
-    text-transform: none;
-    font-size: 20px;
-}
-
-main div
-{
+main {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    width: 90vw;
+    width: 100vw;
     padding: 5px;
-    background-color: var(--verde-pote);
+    background-color: var(--color-fondo);
+    margin-bottom: var(--alto-header);
+    /* Es para que la ultima seccion comience justo despues del header*/
 }
 
-main div div img
-{
-    width: 60vw;
-    padding: 5px;
-}
-
-footer nav 
-{
+section {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: space-around;
     align-items: center;
-    margin: 5vw;
+    scroll-padding-top: var(--alto-header);
+    /* Evita que los links internos queden tapados */
+    padding: 5px;
+    width: 100%;
+}
+
+section div img {
+    width: 85vw;
+    padding: 5px;
+}
+
+footer nav {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
 }

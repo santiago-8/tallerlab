@@ -1,68 +1,116 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TLME</title>
     <link rel="stylesheet" href="./estilos/style.css">
 </head>
+
 <body>
     <header>
         <div>
-            <div>
-                <h1>
-                    Taller laboratorio de música electrónica
-                </h1>
-            </div>
+            <img src="./assets/capacitor.svg" alt="imagen de un capacitor">
 
-            <div>
-                    <img src="./assets/capacitor.svg" alt="foto de un capacitor">
-            </div>
-
-            <nav>
-                <ul>
-                    <li><a href="index.html" class="aca">Taller Laboratorio</a></li>
-                    <li><a href="musica.html"> de Música</a></li> 
-                    <li><a href="electronica.html"> Electrónica</a></li>         
-                </ul>
-            </nav>
+            <h1>
+                Taller laboratorio de música electrónica
+            </h1>
         </div>
+
+        <nav>
+            <ul>
+                <li><a href="#taller">Taller</a></li>
+                <li><a href="#instrumentos"> Instrumentos</a></li>
+                <li><a href="#circuitos"> Circuitos</a></li>
+                <li><a href="#musica"> Música</a></li>
+            </ul>
+        </nav>
 
     </header>
 
     <main>
-        <div>
-            <div>
-                <h2>
-                    El taller
-                </h2>
-                <p>
-                    En el taller laboratorio de música electrónica se compone, 
-                    interpreta y experimenta y también se construyen y/o 
-                    modifican instrumentos musicales.
-                </p>
-            </div>
-            
+        <section id="taller">
+            <h2>
+                El taller
+            </h2>
+
             <div>
                 <img src="./assets/taller.jpeg" alt="el taller">
             </div>
+
+            <p>
+                En el taller laboratorio de música electrónica se compone,
+                interpreta y experimenta y también se construyen y/o
+                modifican instrumentos musicales.
+                El taller funciona en <a href="https://linktr.ee/CasaCaracolMDP" target="_blank"> en Casa
+                    Caracol</a>
+                desde el 2020 (en ese entonces se llamaba taller de luthería electrónica) como un experimento
+                en el cual se construían pequeños teclados
+                hechos con pulsadores y un 555. Luego nos fuimos embarcando en distintos proyectos,
+                como la construccion de un sintetizador modular CMOS
+                (o <a
+                    href="https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit?tab=t.0"
+                    target="_blank"> Lunetta </a>)
+                A partir del 2025 comenzamos a explorar con la modificacion de instrumentos/juguetes
+                (o <a href="https://en.wikipedia.org/wiki/Circuit_bending" target="_blank"> circuit bending)</a>
+            </p>
+        </section>
+
+        <section id="instrumentos">
+            <h2> Instrumentos </h2>
+            <p>
+                El "Getta" (Bautizado asi por <a href="https://sxamcontreras.bandcamp.com/" target="_blank"> Samuel
+                </a>) es
+                un teclado de juguete modificado
+                para tener salida de audio, fuente de alimentacion externa y un control de afinacion.
+            </p>
+
             <div>
-                <p>
-                    El taller funciona en <a href="https://linktr.ee/CasaCaracolMDP" target="_blank"> en Casa Caracol</a> 
-                    desde el 2020 (en ese entonces se llamaba taller de luthería electrónica) como un experimento
-                    en el cual se construían pequeños teclados 
-                    hechos con pulsadores y que fue mutando en sus objetivos y 
-                    en su forma de hacer las cosas hasta en día de hoy.
-                </p>
-                
-            </div>     
-        </div>         
+                <img src="./assets/getta1.jpeg" alt="foto del teclado de juguete">
+            </div>
+        </section>
+
+        <section id="circuitos">
+            <h2>
+                Circuitos
+            </h2>
+            <p>
+                Recursos pedagógicos y técnicos que utilizamos en el taller y que se complementan con la practica
+                musical.
+            </p>
+
+            <nav class="cajalinks">
+
+                <a href="https://drive.google.com/drive/folders/1W9xTWzK-E9thPkZ1Pwaa0SHVHJ707I5x?usp=drive_link"
+                    target="_blank"> Diagramas</a>
+
+                <a href="https://drive.google.com/drive/folders/1-6Q19fZo6RvL4JzKr99-4NXZNoeQMdE3?usp=sharing"
+                    target="_blank"> Textos</a>
+
+            </nav>
+        </section>
+
+        <section id="musica">
+            <h2>
+                Cazando búfalos en el norte
+            </h2>
+            <p>
+                Cazando búfalos en el norte funciona como una "foto"
+                de los ensayos e improvisaciones del taller.
+            </p>
+
+            <iframe style="border: 0; width: 250px; height: 250px;"
+                src="https://bandcamp.com/EmbeddedPlayer/album=2343134124/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/"
+                seamless><a href="https://tlme.bandcamp.com/album/cazando-b-falos-en-el-norte-vol-iii">Cazando
+                    búfalos en el norte vol III de Taller laboratorio de música electrónica</a></iframe>
+        </section>
     </main>
-    
+
     <footer>
-        <nav>
-            Página hecha por interweb comunicaciones
-        </nav>
+        <p>
+            Pagina hecha por Interweb comunicaciones
+        </p>
     </footer>
 
 </body>
