@@ -1,29 +1,3 @@
-:root {
-    /* 1. DOMINANTE / FONDO (60%) */
-    --color-fondo: #cfbda2;
-    --color-superficie: #f3e9d9;
-
-    /* 2. SECUNDARIO / ESTRUCTURA (30%) */
-    --color-titulos: #1e633d;
-    --color-bordes: #b3a085;
-
-    /* 3. ACENTO / INTERACCIÓN (10%) */
-    --color-botones: #154593;
-    --color-hover: #e1c049;
-    --color-links: #a67c37;
-
-    /* 4. TEXTO Y LECTURA */
-    --color-texto: #1c1a17;
-    --alto-header: 160px;
-}
-
-html {
-    scroll-padding-top: var(--alto-header);
-    /* Evita que los links internos queden tapados */
-}
-
-
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -31,44 +5,52 @@ html {
     font-family: sans-serif;
 }
 
-@media (min-width: 768px) {
-    body header {
-        justify-content: flex-start;
-    }
+:root {
+    /* 1. DOMINANTE / FONDO (60%) */
+    --color-fondo: #dbc9ae;
+    --color-superficie: #fffdfa;
+    --color-fondo-header: #f3e9d9;
+    /* color fondo resistor #cfbda2;*/
+    /* 2. SECUNDARIO / ESTRUCTURA (30%) */
+    --color-titulos: #1e633d;
+    --color-bordes: #b3a085;
+
+    /* 3. ACENTO / INTERACCIÓN (10%) */
+    --color-botones: #154593;
+    --color-hover: rgb(230, 159, 28);
+    --color-active: var(--color-superficie);
+
+    /* 4. TEXTO Y LECTURA */
+    --color-texto: #1c1a17;
+    --color-texto-links: white;
+
+    --alto-header: 170px;
+    /* tengo que indicar el alto del header distinto a esto porque sino se me van a pegar las tarjetas */
 }
 
-body {
-    background-color: var(--color-fondo);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+html {
+    scroll-padding-top: var(--alto-header);
+    /* Evita que los links internos queden tapados */
+    scroll-behavior: smooth;
 }
 
-h1 {
-    font-size: 1rem;
-    color: var(--color-texto);
-}
-
-h2 {
-    display: flex;
-    font-size: 1rem;
-    margin: 5px;
-    padding: 5px;
+section,
+header {
     background-color: var(--color-superficie);
-    color: var(--color-texto);
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    /* Sombra sutil que le da profundidad */
+    /* border: 2px solid green; */
 }
 
 header {
     position: sticky;
     top: 0;
     z-index: 1000;
-
-    width: 100vw;
     height: max-content;
-    background-color: var(--color-fondo);
     height: var(--alto-header);
-    border-bottom: 3px solid var(--color-bordes);
-    /* 2px de grosor, línea sólida, color del borde */
 }
 
 header div {
@@ -94,16 +76,57 @@ header nav ul {
     font-size: 1.5rem;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: var(--alto-header);
+    /* Es para que la ultima seccion comience justo despues del header*/
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    margin-top: 20px;
+}
+
+section div img {
+    width: 85vw;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: var(--color-fondo);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1,
+h2 {
+    font-size: 1rem;
+    color: var(--color-texto);
+}
+
+h2 {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+
 nav ul li a {
     display: inline-block;
     /* Necesario para que respete bien el padding y margen */
-    color: var(--color-texto);
-    background-color: var(--color-superficie);
+    color: var(--color-texto-links);
+    background-color: var(--color-titulos);
     text-decoration: none;
     font-size: 1.1rem;
     font-weight: bold;
-    border: 2px solid var(--color-titulos);
-    /* 2px de grosor, línea sólida, color del borde */
 
     /* Espaciado interno: crea el bloque de fondo sin chocar con los de al lado */
     padding: 3px 15px;
@@ -117,37 +140,10 @@ nav ul li a:hover {
 }
 
 nav ul li a:active {
-    background-color: var(--color-links);
-    color: var(--color-botones);
+    background-color: var(--color-active);
+    color: var(--color);
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    width: 100vw;
-    padding: 5px;
-    background-color: var(--color-fondo);
-    margin-bottom: var(--alto-header);
-    /* Es para que la ultima seccion comience justo despues del header*/
-}
-
-section {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    scroll-padding-top: var(--alto-header);
-    /* Evita que los links internos queden tapados */
-    padding: 5px;
-    width: 100%;
-}
-
-section div img {
-    width: 85vw;
-    padding: 5px;
-}
 
 footer nav {
     display: flex;
