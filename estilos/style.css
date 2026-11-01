@@ -29,7 +29,7 @@
 }
 
 html {
-    scroll-padding-top: var(--alto-header);
+    scroll-padding-top: calc(var(--alto-header) + 30px);
     /* Evita que los links internos queden tapados */
     scroll-behavior: smooth;
 }
