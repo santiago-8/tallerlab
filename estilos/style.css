@@ -24,6 +24,8 @@
     --color-texto: #1c1a17;
     --color-texto-links: white;
 
+    --ancho-imagen: 85vw;
+    --ancho-secciones: 95vw;
     --alto-header: 170px;
     /* tengo que indicar el alto del header distinto a esto porque sino se me van a pegar las tarjetas */
 }
@@ -49,8 +51,8 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
-    height: max-content;
     height: var(--alto-header);
+    width: var(--ancho-secciones);
 }
 
 header div {
@@ -90,12 +92,12 @@ section {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-
     margin-top: 20px;
+    width: var(--ancho-secciones);
 }
 
 section div img {
-    width: 85vw;
+    width: var(--ancho-imagen);
     padding: 5px;
     border-radius: 10px;
 }
