@@ -2,29 +2,36 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* --sea-green: #528F65ff;
+--steel-azure: #0F5090ff;
+--dark-goldenrod: #C08328ff;
+--burnt-peach: #D87347ff;
+--white: #FBFDFCff; */
 
 :root {
     /* 1. DOMINANTE / FONDO (60%) */
-    --color-fondo: #dbc9ae;
+    --color-fondo: rgb(209, 182, 142);
     --color-superficie: #fffdfa;
-    --color-fondo-header: #f3e9d9;
-    /* color fondo resistor #cfbda2;*/
+
     /* 2. SECUNDARIO / ESTRUCTURA (30%) */
-    --color-titulos: #1e633d;
-    --color-bordes: #b3a085;
+    --color-caja-titulos: #0F5090ff;
+    --color-bordes: black;
+    --color-fondo-header: var(--color-superficie);
 
     /* 3. ACENTO / INTERACCIÓN (10%) */
-    --color-botones: #154593;
-    --color-hover: rgb(230, 159, 28);
-    --color-active: var(--color-superficie);
+    --color-hover: #528F65ff;
+    --color-active: #D87347ff;
+    --color-titulos: #0F5090ff;
 
     /* 4. TEXTO Y LECTURA */
-    --color-texto: #1c1a17;
-    --color-texto-links: white;
+    --color-texto: #161b15;
+    --color-texto-links: #FBFDFCff;
 
     --ancho-imagen: 85vw;
+    --ancho-imagen-tablet: 50vw;
     --ancho-secciones: 95vw;
     --alto-header: 170px;
     /* tengo que indicar el alto del header distinto a esto porque sino se me van a pegar las tarjetas */
@@ -38,16 +45,27 @@ html {
 
 section,
 header {
-    background-color: var(--color-superficie);
     border-radius: 12px;
     padding: 10px;
     margin: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
-    /* Sombra sutil que le da profundidad */
-    /* border: 2px solid green; */
+}
+
+section {
+    background-color: var(--color-superficie);
+}
+
+section p {
+    color: var(--color-texto);
+    margin: 10px;
 }
 
 header {
+    background-color: var(--color-fondo-header);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -64,8 +82,9 @@ header div {
 }
 
 header img {
-    width: 2.5rem;
+    width: 3rem;
     padding: 5px;
+    filter: invert(0%);
 }
 
 header nav ul {
@@ -75,7 +94,6 @@ header nav ul {
     justify-content: space-around;
     align-items: center;
     list-style: none;
-    font-size: 1.5rem;
 }
 
 main {
@@ -92,42 +110,68 @@ section {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 10px;
     width: var(--ancho-secciones);
 }
 
-section div img {
+section img {
     width: var(--ancho-imagen);
     padding: 5px;
     border-radius: 10px;
+    margin: 10px;
+}
+
+.lista-modulos {
+    list-style-type: "- ";
+    /* Cambia los puntos por un guion y un espacio */
+    padding-left: 20px;
+    /* Sangría a la izquierda */
+    margin: 12px 0;
+    line-height: 1.6;
+    /* Espaciado cómodo entre líneas */
+    color: var(--color-texto);
+}
+
+.lista-modulos li {
+    margin-bottom: 4px;
+    /* Pequeña separación entre cada módulo */
 }
 
 body {
     background-color: var(--color-fondo);
+    /* background-image: url('../assets/fondopagina.svg'); */
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 h1,
-h2 {
-    font-size: 1rem;
-    color: var(--color-texto);
+section h2,
+section h3 {
+    color: #0F5090ff;
 }
 
-h2 {
-    display: flex;
+h1 {
+    font-size: 1.5rem;
+}
+
+section h2 {
     margin: 5px;
     padding: 5px;
+    font-size: 1.5rem;
 }
 
-nav ul li a {
+h3 {
+    font-size: 1.2rem;
+}
+
+nav ul li a, nav a {
     display: inline-block;
     /* Necesario para que respete bien el padding y margen */
     color: var(--color-texto-links);
-    background-color: var(--color-titulos);
+    background-color: var(--color-caja-titulos);
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: bold;
 
     /* Espaciado interno: crea el bloque de fondo sin chocar con los de al lado */
@@ -139,6 +183,8 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: var(--color-hover);
+    border-color: var(--color-bordes);
+    color: white;
 }
 
 nav ul li a:active {
@@ -147,13 +193,37 @@ nav ul li a:active {
 }
 
 iframe {
+    width: 100%;
+    max-width: 350px;
+    /* Ancho estándar de Bandcamp */
+    min-height: 470px;
+    /* Alto necesario para que se vea el reproductor grande */
     border: 0;
-    width: 250px;
-    height: 250px;
+    display: block;
+    margin: 5px;
 }
 
 footer nav {
     display: flex;
     justify-content: center;
     margin: 10px;
+}
+
+@media (min-width: 768px) {
+
+    header img {
+        width: 4rem;
+    }
+
+    section img {
+        width: var(--ancho-imagen-tablet);
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.7rem;
+    }
 }
