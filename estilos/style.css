@@ -31,7 +31,6 @@
     --color-texto-links: #FBFDFCff;
 
     --ancho-imagen: 85vw;
-    --ancho-imagen-tablet: 50vw;
     --ancho-secciones: 95vw;
     --alto-header: 170px;
     /* tengo que indicar el alto del header distinto a esto porque sino se me van a pegar las tarjetas */
@@ -123,12 +122,9 @@ section img {
 
 .lista-modulos {
     list-style-type: "- ";
-    /* Cambia los puntos por un guion y un espacio */
     padding-left: 20px;
-    /* Sangría a la izquierda */
     margin: 12px 0;
     line-height: 1.6;
-    /* Espaciado cómodo entre líneas */
     color: var(--color-texto);
 }
 
@@ -139,7 +135,6 @@ section img {
 
 body {
     background-color: var(--color-fondo);
-    /* background-image: url('../assets/fondopagina.svg'); */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -152,7 +147,7 @@ section h3 {
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 section h2 {
@@ -165,7 +160,8 @@ h3 {
     font-size: 1.2rem;
 }
 
-nav ul li a, nav a {
+nav ul li a,
+nav a {
     display: inline-block;
     /* Necesario para que respete bien el padding y margen */
     color: var(--color-texto-links);
@@ -173,10 +169,8 @@ nav ul li a, nav a {
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: bold;
-
     /* Espaciado interno: crea el bloque de fondo sin chocar con los de al lado */
     padding: 3px 15px;
-    /* 8px arriba/abajo, 16px a los lados */
     margin: 3px;
     border-radius: 6px;
 }
@@ -215,8 +209,19 @@ footer nav {
         width: 4rem;
     }
 
-    section img {
-        width: var(--ancho-imagen-tablet);
+    :root {
+        --ancho-imagen: 50vw;
+        --ancho-secciones: 70vw;
+    }
+
+    body {
+        background-color: var(--color-fondo);
+        /* Color beige de respaldo */
+        background-image: url("../assets/fondo_capacitores.svg");
+        background-repeat: repeat;
+        /* Repite la imagen en horizontal y vertical */
+        background-size: 120px 120px;
+        /* Controla el tamaño de cada baldosa del mosaico */
     }
 
     h1 {
