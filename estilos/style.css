@@ -42,23 +42,6 @@ html {
     scroll-behavior: smooth;
 }
 
-section,
-header {
-    border-radius: 12px;
-    padding: 10px;
-    margin: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
-}
-
-section {
-    background-color: var(--color-superficie);
-}
-
-section p {
-    color: var(--color-texto);
-    margin: 10px;
-}
-
 header {
     background-color: var(--color-fondo-header);
     display: flex;
@@ -104,6 +87,19 @@ main {
     /* Es para que la ultima seccion comience justo despues del header*/
 }
 
+section,
+header {
+    border-radius: 12px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+section p {
+    color: var(--color-texto);
+    margin: 10px;
+}
+
 section {
     display: flex;
     flex-direction: column;
@@ -111,10 +107,15 @@ section {
     align-items: center;
     margin-top: 10px;
     width: var(--ancho-secciones);
+    background-color: var(--color-superficie);
 }
 
 section img {
     width: var(--ancho-imagen);
+    max-width: 100%;
+    /* Evita que se salga de la tarjeta si la pantalla es más angosta */
+    height: auto;
+    /* Recalcula el alto proporcionalmente sin deformar la foto */
     padding: 5px;
     border-radius: 10px;
     margin: 10px;
@@ -157,6 +158,8 @@ section h2 {
 }
 
 h3 {
+    margin: 5px;
+    padding: 5px;
     font-size: 1.2rem;
 }
 
@@ -175,6 +178,14 @@ nav a {
     border-radius: 6px;
 }
 
+nav a[aria-current="page"] {
+    background-color: var(--color-hover);
+    font-weight: bold;
+}
+
+/* LLeva corchetes en lugar de llaves porque es un selector */
+/* Selecciona un elemento del html (en este caso dentro de los nav a) */
+
 nav ul li a:hover {
     background-color: var(--color-hover);
     border-color: var(--color-bordes);
@@ -186,21 +197,31 @@ nav ul li a:active {
     color: var(--color);
 }
 
-iframe {
+.reproductor-bandcamp {
     width: 100%;
     max-width: 350px;
     /* Ancho estándar de Bandcamp */
-    min-height: 470px;
+    height: 470px;
     /* Alto necesario para que se vea el reproductor grande */
     border: 0;
     display: block;
     margin: 5px;
 }
 
+.galeria-bandcamp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Centra los reproductores horizontalmente */
+    gap: 20px;
+    /* Espacio entre reproductores */
+    margin: 10px 0;
+}
+
 footer nav {
     display: flex;
     justify-content: center;
-    margin: 10px;
+    margin: 5px;
 }
 
 @media (min-width: 768px) {
@@ -230,5 +251,11 @@ footer nav {
 
     h2 {
         font-size: 1.7rem;
+    }
+
+    .galeria-bandcamp {
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
     }
 }
