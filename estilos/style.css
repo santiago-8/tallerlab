@@ -194,7 +194,7 @@ nav ul li a:hover {
 
 nav ul li a:active {
     background-color: var(--color-active);
-    color: var(--color);
+    color: var(--color-texto-links);
 }
 
 .reproductor-bandcamp {
